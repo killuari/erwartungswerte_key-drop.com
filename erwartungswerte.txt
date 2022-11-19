@@ -1,0 +1,505 @@
+Runner:
+Erwartungswert: $0.71
+Standardabweichung: 1.18
+Gewinnerwartung: $-0.09 - -11.2%
+
+Himero:
+Erwartungswert: $10.68
+Standardabweichung: 193.54
+Gewinnerwartung: $-1.32 - -11.0%
+
+Final:
+Erwartungswert: $35.47
+Standardabweichung: 1968.72
+Gewinnerwartung: $-4.53 - -11.3%
+
+Wire:
+Erwartungswert: $5.32
+Standardabweichung: 75.17
+Gewinnerwartung: $-0.68 - -11.3%
+
+Miman:
+Erwartungswert: $1.77
+Standardabweichung: 8.27
+Gewinnerwartung: $-0.23 - -11.6%
+
+Sonic:
+Erwartungswert: $1.34
+Standardabweichung: 3.45
+Gewinnerwartung: $-0.16 - -10.8%
+
+Dynamic:
+Erwartungswert: $11.52
+Standardabweichung: 219.55
+Gewinnerwartung: $-1.48 - -11.4%
+
+Glow:
+Erwartungswert: $22.2
+Standardabweichung: 876.64
+Gewinnerwartung: $-2.8 - -11.2%
+
+Street:
+Erwartungswert: $5.41
+Standardabweichung: 77.84
+Gewinnerwartung: $-0.59 - -9.9%
+
+Blink:
+Erwartungswert: $3.54
+Standardabweichung: 37.19
+Gewinnerwartung: $-0.46 - -11.4%
+
+Tap:
+Erwartungswert: $4.45
+Standardabweichung: 46.56
+Gewinnerwartung: $-0.55 - -11.0%
+
+Horus:
+Erwartungswert: $1.32
+Standardabweichung: 2.97
+Gewinnerwartung: $-0.18 - -11.8%
+
+Titan:
+Erwartungswert: $10.58
+Standardabweichung: 235.36
+Gewinnerwartung: $-1.42 - -11.8%
+
+Crew:
+Erwartungswert: $1.79
+Standardabweichung: 7.57
+Gewinnerwartung: $-0.21 - -10.4%
+
+Diver:
+Erwartungswert: $7.23
+Standardabweichung: 111.97
+Gewinnerwartung: $-0.77 - -9.7%
+
+Spark:
+Erwartungswert: $1.45
+Standardabweichung: 20.71
+Gewinnerwartung: $-0.08 - -5.0%
+
+Daggers:
+Erwartungswert: $0.42
+Standardabweichung: 2.09
+Gewinnerwartung: $-0.06 - -12.8%
+
+Perfect:
+Erwartungswert: $2.81
+Standardabweichung: 52.78
+Gewinnerwartung: $-0.35 - -11.2%
+
+Energy-2:
+Erwartungswert: $0.41
+Standardabweichung: 0.86
+Gewinnerwartung: $-0.07 - -14.7%
+
+Sharp-2:
+Erwartungswert: $7.03
+Standardabweichung: 298.4
+Gewinnerwartung: $-0.86 - -10.9%
+
+Swap:
+Erwartungswert: $2.78
+Standardabweichung: 47.76
+Gewinnerwartung: $-0.38 - -12.1%
+
+Signal:
+Erwartungswert: $2.66
+Standardabweichung: 98.19
+Gewinnerwartung: $-0.3 - -10.0%
+
+Smart-2:
+Erwartungswert: $3.35
+Standardabweichung: 110.18
+Gewinnerwartung: $-0.21 - -5.8%
+
+Capital:
+Erwartungswert: $2.8
+Standardabweichung: 81.14
+Gewinnerwartung: $-0.36 - -11.2%
+
+Tech:
+Erwartungswert: $0.43
+Standardabweichung: 2.88
+Gewinnerwartung: $-0.05 - -9.9%
+
+1-profit:
+Erwartungswert: $0.67
+Standardabweichung: 4.39
+Gewinnerwartung: $-0.08 - -11.3%
+
+Lord:
+Erwartungswert: $3.66
+Standardabweichung: 78.9
+Gewinnerwartung: $-0.28 - -7.0%
+
+Token:
+Erwartungswert: $2.12
+Standardabweichung: 73.06
+Gewinnerwartung: $-0.25 - -10.4%
+
+Rocket:
+Erwartungswert: $3.61
+Standardabweichung: 72.51
+Gewinnerwartung: $-0.44 - -10.8%
+
+1-knife:
+Erwartungswert: $0.82
+Standardabweichung: 6.38
+Gewinnerwartung: $-0.06 - -6.4%
+
+Space:
+Erwartungswert: $4.95
+Standardabweichung: 36.46
+Gewinnerwartung: $-0.58 - -10.4%
+
+Focus:
+Erwartungswert: $2.81
+Standardabweichung: 13.79
+Gewinnerwartung: $-0.35 - -11.1%
+
+Fang:
+Erwartungswert: $26.34
+Standardabweichung: 970.97
+Gewinnerwartung: $-2.87 - -9.8%
+
+Cobra:
+Erwartungswert: $71.46
+Standardabweichung: 9356.35
+Gewinnerwartung: $-7.47 - -9.5%
+
+Royal:
+Erwartungswert: $10.46
+Standardabweichung: 196.8
+Gewinnerwartung: $-1.38 - -11.6%
+
+Thunder:
+Erwartungswert: $14.07
+Standardabweichung: 697.49
+Gewinnerwartung: $-1.72 - -10.9%
+
+Tooth:
+Erwartungswert: $7.36
+Standardabweichung: 190.81
+Gewinnerwartung: $-0.82 - -10.1%
+
+Bubble:
+Erwartungswert: $10.15
+Standardabweichung: 435.03
+Gewinnerwartung: $-1.24 - -10.9%
+
+Hive:
+Erwartungswert: $5.73
+Standardabweichung: 121.47
+Gewinnerwartung: $-0.71 - -11.0%
+
+Strike:
+Erwartungswert: $4.21
+Standardabweichung: 38.3
+Gewinnerwartung: $-0.51 - -10.8%
+
+Splinter:
+Erwartungswert: $12.21
+Standardabweichung: 571.61
+Gewinnerwartung: $-1.51 - -11.0%
+
+Vision:
+Erwartungswert: $22.13
+Standardabweichung: 1592.56
+Gewinnerwartung: $-2.56 - -10.4%
+
+Toxic:
+Erwartungswert: $1.19
+Standardabweichung: 10.81
+Gewinnerwartung: $-0.14 - -10.4%
+
+Omega:
+Erwartungswert: $8.83
+Standardabweichung: 396.87
+Gewinnerwartung: $-1.01 - -10.3%
+
+Dream:
+Erwartungswert: $17.34
+Standardabweichung: 1249.16
+Gewinnerwartung: $-2.18 - -11.2%
+
+Diablo:
+Erwartungswert: $0.99
+Standardabweichung: 4.39
+Gewinnerwartung: $-0.13 - -11.6%
+
+Shadow:
+Erwartungswert: $2.52
+Standardabweichung: 27.12
+Gewinnerwartung: $-0.31 - -11.0%
+
+Ice-blast:
+Erwartungswert: $0.29
+Standardabweichung: 0.21
+Gewinnerwartung: $-0.03 - -10.0%
+
+Deadpool:
+Erwartungswert: $8.26
+Standardabweichung: 230.97
+Gewinnerwartung: $-1.05 - -11.3%
+
+Rocket-raccon:
+Erwartungswert: $0.31
+Standardabweichung: 0.13
+Gewinnerwartung: $-0.04 - -11.1%
+
+Batman:
+Erwartungswert: $1.34
+Standardabweichung: 8.22
+Gewinnerwartung: $-0.16 - -10.5%
+
+Venom:
+Erwartungswert: $16.41
+Standardabweichung: 893.24
+Gewinnerwartung: $-2.06 - -11.1%
+
+Thanos:
+Erwartungswert: $3.96
+Standardabweichung: 39.84
+Gewinnerwartung: $-0.46 - -10.3%
+
+Ironman:
+Erwartungswert: $2.71
+Standardabweichung: 32.18
+Gewinnerwartung: $-0.29 - -9.6%
+
+Captain-america:
+Erwartungswert: $6.22
+Standardabweichung: 98.03
+Gewinnerwartung: $-0.73 - -10.5%
+
+Thor:
+Erwartungswert: $1.7
+Standardabweichung: 6.62
+Gewinnerwartung: $-0.19 - -9.9%
+
+Hulk:
+Erwartungswert: $4.34
+Standardabweichung: 39.8
+Gewinnerwartung: $-0.47 - -9.8%
+
+Vest:
+Erwartungswert: $161.3
+Standardabweichung: 49224.61
+Gewinnerwartung: $-18.38 - -10.2%
+
+Serpent:
+Erwartungswert: $48.73
+Standardabweichung: 5928.7
+Gewinnerwartung: $-6.06 - -11.1%
+
+Arrow:
+Erwartungswert: $105.89
+Standardabweichung: 21237.73
+Gewinnerwartung: $-12.38 - -10.5%
+
+Lore:
+Erwartungswert: $352.76
+Standardabweichung: 175105.44
+Gewinnerwartung: $-41.88 - -10.6%
+
+Vice:
+Erwartungswert: $213.21
+Standardabweichung: 76651.02
+Gewinnerwartung: $-23.36 - -9.9%
+
+Bloodshot:
+Erwartungswert: $281.21
+Standardabweichung: 109307.29
+Gewinnerwartung: $-34.51 - -10.9%
+
+Terrorist:
+Erwartungswert: $1.97
+Standardabweichung: 9.75
+Gewinnerwartung: $-0.24 - -11.1%
+
+Nice-shot:
+Erwartungswert: $6.75
+Standardabweichung: 115.05
+Gewinnerwartung: $-0.75 - -10.0%
+
+Viper:
+Erwartungswert: $3.51
+Standardabweichung: 109.28
+Gewinnerwartung: $-0.43 - -11.0%
+
+Master:
+Erwartungswert: $2.84
+Standardabweichung: 45.17
+Gewinnerwartung: $-0.32 - -10.3%
+
+Marker:
+Erwartungswert: $0.85
+Standardabweichung: 1.09
+Gewinnerwartung: $-0.09 - -9.8%
+
+Crimson-emerald:
+Erwartungswert: $8.85
+Standardabweichung: 282.04
+Gewinnerwartung: $-1.01 - -10.2%
+
+The-expendables:
+Erwartungswert: $11.37
+Standardabweichung: 216.77
+Gewinnerwartung: $-1.37 - -10.7%
+
+Dragon:
+Erwartungswert: $3.46
+Standardabweichung: 17.76
+Gewinnerwartung: $-0.42 - -10.8%
+
+Pika-pika:
+Erwartungswert: $3.25
+Standardabweichung: 64.03
+Gewinnerwartung: $-0.39 - -10.7%
+
+Avalanche:
+Erwartungswert: $0.67
+Standardabweichung: 1.13
+Gewinnerwartung: $-0.07 - -9.9%
+
+Spider:
+Erwartungswert: $5.67
+Standardabweichung: 102.51
+Gewinnerwartung: $-0.65 - -10.2%
+
+Teeth:
+Erwartungswert: $0.5
+Standardabweichung: 0.71
+Gewinnerwartung: $-0.06 - -9.9%
+
+Mafia:
+Erwartungswert: $2.71
+Standardabweichung: 13.95
+Gewinnerwartung: $-0.29 - -9.8%
+
+Gradient:
+Erwartungswert: $2.81
+Standardabweichung: 47.64
+Gewinnerwartung: $-0.29 - -9.3%
+
+Beast:
+Erwartungswert: $0.45
+Standardabweichung: 2.76
+Gewinnerwartung: $-0.06 - -11.0%
+
+Bumblebee:
+Erwartungswert: $19.95
+Standardabweichung: 2282.89
+Gewinnerwartung: $-2.39 - -10.7%
+
+Lazure:
+Erwartungswert: $1.32
+Standardabweichung: 4.07
+Gewinnerwartung: $-0.18 - -11.8%
+
+Joker:
+Erwartungswert: $35.01
+Standardabweichung: 3619.46
+Gewinnerwartung: $-4.46 - -11.3%
+
+Bullet:
+Erwartungswert: $1.0
+Standardabweichung: 2.45
+Gewinnerwartung: $-0.12 - -10.8%
+
+Banana:
+Erwartungswert: $0.96
+Standardabweichung: 3.07
+Gewinnerwartung: $-0.11 - -10.2%
+
+Razor:
+Erwartungswert: $7.73
+Standardabweichung: 113.67
+Gewinnerwartung: $-0.96 - -11.0%
+
+Ak-47:
+Erwartungswert: $3.52
+Standardabweichung: 41.39
+Gewinnerwartung: $-0.42 - -10.5%
+
+Awp:
+Erwartungswert: $3.13
+Standardabweichung: 132.37
+Gewinnerwartung: $-0.34 - -9.9%
+
+Knives:
+Erwartungswert: $74.75
+Standardabweichung: 7346.17
+Gewinnerwartung: $-8.56 - -10.3%
+
+Gloves:
+Erwartungswert: $114.52
+Standardabweichung: 22914.74
+Gewinnerwartung: $-12.56 - -9.9%
+
+Agent:
+Erwartungswert: $1.11
+Standardabweichung: 1.27
+Gewinnerwartung: $-0.07 - -6.1%
+
+Glock-18:
+Erwartungswert: $0.98
+Standardabweichung: 16.73
+Gewinnerwartung: $-0.13 - -11.3%
+
+M4:
+Erwartungswert: $3.44
+Standardabweichung: 80.84
+Gewinnerwartung: $-0.38 - -9.8%
+
+Usp-s:
+Erwartungswert: $1.07
+Standardabweichung: 3.56
+Gewinnerwartung: $-0.12 - -10.0%
+
+New-knives:
+Erwartungswert: $95.57
+Standardabweichung: 11356.96
+Gewinnerwartung: $-9.67 - -9.2%
+
+Milspec:
+Erwartungswert: $0.21
+Standardabweichung: 0.17
+Gewinnerwartung: $-0.02 - -10.0%
+
+Restricted:
+Erwartungswert: $1.36
+Standardabweichung: 14.28
+Gewinnerwartung: $-0.14 - -9.6%
+
+Covert:
+Erwartungswert: $4.84
+Standardabweichung: 182.65
+Gewinnerwartung: $-0.61 - -11.2%
+
+Dadosch:
+Erwartungswert: $7.02
+Standardabweichung: 133.4
+Gewinnerwartung: $-0.87 - -11.1%
+
+Anon:
+Erwartungswert: $24.04
+Standardabweichung: 1930.6
+Gewinnerwartung: $-2.96 - -11.0%
+
+Jorgo:
+Erwartungswert: $7.04
+Standardabweichung: 116.82
+Gewinnerwartung: $-0.85 - -10.7%
+
+Krowny:
+Erwartungswert: $5.67
+Standardabweichung: 124.6
+Gewinnerwartung: $-0.65 - -10.2%
+
+Snugtoes:
+Erwartungswert: $24.0
+Standardabweichung: 3642.84
+Gewinnerwartung: $-3.0 - -11.1%
+
